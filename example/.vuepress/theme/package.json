@@ -1,0 +1,30 @@
+{
+  "name": "vuepress-theme-md-resume",
+  "version": "0.1.3",
+  "description": "编写简洁优雅的markdown简历，由 vuepress 驱动",
+  "author": "yiliang114 <1204183885@qq.com>",
+  "license": "MIT",
+  "private": false,
+  "main": "layouts/Layout.vue",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yiliang114/vuepress-theme-resume"
+  },
+  "keywords": [
+    "vuepress",
+    "markdown",
+    "bio",
+    "resume"
+  ],
+  "scripts": {
+    "start": "vuepress dev example",
+    "build": "vuepress build example"
+  },
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  },
+  "engines": {
+    "node": ">= 6.0.0",
+    "npm": ">= 3.0.0"
+  }
+}
