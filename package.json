@@ -1,6 +1,6 @@
 {
   "name": "vuepress-theme-md-resume",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "编写简洁优雅的markdown简历，由 vuepress 驱动",
   "author": "yiliang114 <1204183885@qq.com>",
   "license": "MIT",
@@ -26,5 +26,8 @@
   "engines": {
     "node": ">= 6.0.0",
     "npm": ">= 3.0.0"
+  },
+  "dependencies": {
+    "vuepress-theme-md-resume": "^0.1.1"
   }
 }

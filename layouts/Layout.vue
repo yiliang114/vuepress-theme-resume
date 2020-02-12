@@ -116,3 +116,6 @@ export default {
   }
 };
 </script>
+
+<style src="prismjs/themes/prism-tomorrow.css"></style>
+<style src="../styles/index.styl" lang="stylus"></style>
